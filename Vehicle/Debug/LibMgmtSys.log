@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (StuMgmtSys.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AdminHome.cpp
+  HomeForm.cpp
+  LandingForm.cpp
+h:\2018 projects\ashwini lap cpp\cpp\libmgmtsys\libmgmtsys\LecturerPage.h(508): warning C4101: 'ex': unreferenced local variable
+LandingForm.cpp(14): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AdminHome.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  LibMgmtSys.vcxproj -> H:\2018 Projects\Ashwini LAP CPP\cpp\LibMgmtSys\Debug\LibMgmtSys.exe
+  LibMgmtSys.vcxproj -> H:\2018 Projects\Ashwini LAP CPP\cpp\LibMgmtSys\Debug\LibMgmtSys.pdb (Partial PDB)

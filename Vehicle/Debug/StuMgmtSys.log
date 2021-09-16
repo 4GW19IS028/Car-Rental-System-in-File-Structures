@@ -1,0 +1,9 @@
+﻿  LandingForm.cpp
+h:\2018 projects\ashwini lap cpp\cpp\stumgmtsys\stumgmtsys\AdminHome.h(583): warning C4101: 'ex': unreferenced local variable
+h:\2018 projects\ashwini lap cpp\cpp\stumgmtsys\stumgmtsys\LecturerPage.h(508): warning C4101: 'ex': unreferenced local variable
+LandingForm.cpp(13): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  StudentPage.cpp
+  Generating Code...
+  AdminHome.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  StuMgmtSys.vcxproj -> H:\2018 Projects\Ashwini LAP CPP\cpp\StuMgmtSys\Debug\StuMgmtSys.exe
+  StuMgmtSys.vcxproj -> H:\2018 Projects\Ashwini LAP CPP\cpp\StuMgmtSys\Debug\StuMgmtSys.pdb (Partial PDB)
